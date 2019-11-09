@@ -1,0 +1,29 @@
+p{
+    color: red;
+}
+h1{
+    color: blue;
+}
+#d{
+    background: yellow;
+}
+#c{
+    background: greenyellow;
+}
+*{
+    text-align: center;
+    color: red;
+}
+#e{
+    border: 5px solid black;
+}
+p{
+    border: 10px dashed black;
+}
+.login{
+    margin-top: 50px;
+    border: 2px solid black;
+    padding-top: 5%;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
